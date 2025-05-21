@@ -1,0 +1,17 @@
+numpy
+pandas
+python_dateutil
+matplotlib
+nltk==3.8.1
+scikit_learn
+tensorflow-macos
+neuralprophet==0.9.0 
+python-binance
+contractions
+seaborn
+snscrape
+streamlit
+wordcloud
+streamlit-lottie
+openpyxl
+plotly
