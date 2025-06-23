@@ -24,5 +24,5 @@ export KERAS_BACKEND=tensorflow
 ```
 4. Launch the application:
 ```bash
-streamlit run Main.py
+streamlit run "/Users/path/to/Main.py"
 ```
