@@ -251,7 +251,7 @@ def generate_wordcloud(tweetsDf):
     plt.axis("off")
     plt.imshow(wordCloud)
     plt.savefig("wordcloud.png", bbox_inches='tight', pad_inches=0.1)
-    st.image("wordcloud.png", use_column_width=True)
+    st.image("wordcloud.png", use_container_width=True)
 
 def generate_barplot_sentiment(tweetsDf):
     fig = plt.figure(figsize=(8, 5))
